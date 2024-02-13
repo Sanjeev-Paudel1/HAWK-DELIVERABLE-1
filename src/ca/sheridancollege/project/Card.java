@@ -9,7 +9,9 @@ package ca.sheridancollege.project;
  * A class to be used as the base Card class for the project. Must be general enough to be instantiated for any Card
  * game. Students wishing to add to the code should remember to add themselves as a modifier.
  *
- * @author kshitij
+ * @author Kshitij Ale 12 Feb 2024
+   @author Sanjeev Paudel 13 Feb 2024
+   @author Sheshmani Bhandari 12 Feb 2024
  */
 public abstract class Card {
     //default modifier for child classes
