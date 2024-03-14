@@ -12,7 +12,7 @@ package ca.sheridancollege.project;
  * @author Kshitij Ale 12 Feb 2024
    @author Sanjeev Paudel 13 Feb 2024
    @author Sheshmani Bhandari 12 Feb 2024
-   @author Sahil Sharma 12 Feb 2024
+   @author Sahil Sharma 13 Feb 2024
  */
 public abstract class Card {
     //default modifier for child classes
